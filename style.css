@@ -1029,6 +1029,17 @@ h4 {
         height: 320px;
     }
 }
+/*************************************** MODIFICATIONS *********************************************/
+.col-sm-12 p{
+    font-size: 20px;
+}
+.col-xs-12 p{
+    font-size: 20px;
+    font-style: italic;
+}
+.col-xs-12 .autor{
+    font-style: normal;
+}
 
 @media (max-width: 400px) {
     .bloc {
