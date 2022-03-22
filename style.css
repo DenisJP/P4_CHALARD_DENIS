@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgb(255, 255, 255);
 }
 
 .d-bloc .a-btn:hover,
@@ -773,7 +773,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #f5804a;
+    background-color: #f35208;
 }
 
 .tc-white {
@@ -781,7 +781,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #f5804a;
+    background: #f35208;
     color: #FFFFFF!important;
 }
 
@@ -1016,6 +1016,10 @@ h4 {
     }
 }
 /*************************************** MODIFICATIONS *********************************************/
+.col-sm-3 a{
+    color:white;
+}
+
 .col-sm-12 p{
     font-size: 20px;
 }
