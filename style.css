@@ -815,9 +815,6 @@ h4 {
     background-image: url("img/agence-la-panthere.jpg");
 }
 
-.bg-presentation {
-    background-image: url("img/image-de-presentation.png");
-}
 
 @media (max-width: 1024px) {
     .bloc {
@@ -1016,10 +1013,9 @@ h4 {
     }
 }
 /*************************************** MODIFICATIONS *********************************************/
-.col-sm-3 a{
-    color:white;
+.social_text_color{
+    color: #FFFFFF;
 }
-
 .col-sm-12 p{
     font-size: 20px;
 }
